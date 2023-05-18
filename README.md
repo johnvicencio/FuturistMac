@@ -24,4 +24,11 @@ By replicating the functionality of the Futurist web app version, you can create
 3. Visual Studio for Mac
 4. Uses Xcode for the storyboard
 
-## How
+## How to use the Application
+1. First you need to compile the app
+2. Install the package 
+3. Run the application
+4. Type an answer
+5. Click the Prediction button
+6. See a window for your answer
+7. Close when done 
