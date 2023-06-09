@@ -25,7 +25,7 @@ By replicating the functionality of the Futurist web app version, you can create
 4. Uses Xcode for the storyboard
 
 ## How to use the Application
-1. First you need to compile the app
+1. First you need to compile the app (see http://bit.johnvicencio.com/futurist for more info)
 2. Install the package 
 3. Run the application
 4. Type an answer
